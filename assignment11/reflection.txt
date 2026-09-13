@@ -1,0 +1,25 @@
+Task 4: Reflection
+
+1. Static and interactive visualizations
+
+Static visualizations show a fixed view of the data and work well in printed reports or presentations. 
+The employee revenue bar chart and cumulative revenue line chart made comparisons and trends easy to see without needing to interact with them. 
+The interactive visualizations let the viewer explore the data by hovering over points, zooming, or hiding categories. 
+The Plotly wind chart showed how these features can provide more detail while keeping the chart readable. 
+Best choice depends on the audience and whether they need a quick overview or a chance to explore.
+
+2. Dashboards for real-time data exploration
+
+Dashboards bring charts, tables, and key measurements together in one place, making it easier to monitor changes and explore data.
+The filters let users focus on a particular products, time periods, or groups without creating a new report each time. 
+When a dashboard is connected to a current data source and configured to refresh, it can help users spot trends or problems sooner and make informed decisions. 
+Its usefulness depends on accurate data and a clear indication of when the information was last updated.
+
+3. Interactive tools in professional settings
+
+Tools like Plotly improve data communication by letting people explore the details behind a chart. 
+Hover information can show exact values, and zooming can help viewers examine a specific area. 
+Clicking legend items makes it easier to compare selected groups. 
+These features can support discussions in meetings because people can investigate questions as they arise. 
+Clear titles, labels, and explanations still matter so that everyone understands what the chart represents. 
+Saving a Plotly chart as HTML also makes it possible to share an interactive visualization that others can open in a browser.
